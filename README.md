@@ -12,5 +12,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HundredCleanWater&theme=bear&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HundredCleanWater&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=HundredCleanWater&icon=0&color=3)](https://visitcount.itsvg.in)
